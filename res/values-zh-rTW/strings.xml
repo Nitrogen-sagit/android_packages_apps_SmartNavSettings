@@ -112,7 +112,7 @@
     <string name="fling_config_backup_error_toast">保存 Fling 設定檔時出錯</string>
     <string name="fling_config_restore_error_toast">還原 Fling 設定檔時出錯</string>
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_summary">在設備揚聲器上播放音頻時,某些音訊源上音樂可視化可能不工作</string>
+    <string name="pulse_help_policy_notice_summary">在設備揚聲器上播放音頻時，某些音訊源上音樂可視化可能不工作</string>
     <string name="pulse_settings">音乐可視化</string>
     <string name="pulse_settings_summary">導航欄音樂可視化</string>
     <string name="fling_show_pulse_title">啟用音樂可視化</string>
