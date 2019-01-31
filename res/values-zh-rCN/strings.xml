@@ -136,8 +136,8 @@
     <string name="pulse_auto_color_title">自动选择音乐可视化颜色</string>
     <string name="pulse_auto_color_summary">使颜色与专辑封面保持一致。对熔岩灯与实线的不透明度进行重载</string>
     <!-- Pulse config -->
-    <string name="pulse_custom_dimen">色块宽度</string>
-    <string name="pulse_custom_div">色块间距</string>
+    <string name="pulse_custom_dimen">条形宽度</string>
+    <string name="pulse_custom_div">条形间距</string>
     <string name="pulse_filled_block_size">色块大小</string>
     <string name="pulse_empty_block_size">色块间距</string>
     <!-- Navbar height -->
